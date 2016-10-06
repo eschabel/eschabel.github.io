@@ -1,0 +1,33 @@
+header{
+	font-family: "Marker Felt","Papyrus", fantasy;
+	color:#66FFCC;
+      }
+      
+div {
+	font-family: "Marker Felt","Papyrus", fantasy;
+	margin-left: auto;
+	color:#ffffff;
+	background-color:#6666CC;
+      border-collapse: collapse; 
+  }
+p {font-family: "Marker Felt","Papyrus", cursive;
+   font-size: 14pt; 
+  }
+ img {
+    display: block;
+    margin: auto;
+    width: 50%;
+     }
+section {
+    margin-left: 800px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+        }
+article {
+    margin-top:-1231px;
+    margin-right: 800px;
+    border-right: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+        }
